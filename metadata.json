@@ -1,0 +1,6 @@
+{
+  "name": "SSI (Sistema de Senha Iteraima)",
+  "description": "Sistema moderno de atendimento e triagem de senhas (SSI) do Instituto de Terras de Roraima (Iteraima) com Painel de TV integrado, Guichês virtuais e Estatísticas de atendimento.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
